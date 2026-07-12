@@ -2,8 +2,6 @@
 
 Welcome to my **Personal Portfolio Website**! This project showcases my skills, projects, education, certifications, and achievements as an aspiring **AI & Machine Learning Engineer** and **Software Developer**.
 
-🔗 **GitHub Repository:** https://github.com/Ashishkumar217/Personal-Portfolio
-
 ---
 
 ## 📖 About the Project
